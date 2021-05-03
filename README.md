@@ -1,7 +1,7 @@
 # NotificationSystem
 
 Technologies:
- Spring Boot - 2.0
+ Spring Boot
  Maven
  Simpleslackapi
  spring-boot-email-tools
